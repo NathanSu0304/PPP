@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bbadd5a-e369-4e47-8e21-3ca8f73e030a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/SAXParserExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SAXParserExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gim.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gim.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/movie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/relation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SAXParserExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SAXParserExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cs122b-spring20-project3-SAXParser-example-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/cs122b-spring20-project3-SAXParser-example-0.0.1-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589166242534</updated>
       <workItem from="1589166245545" duration="47392000" />
-      <workItem from="1589246410280" duration="160000" />
+      <workItem from="1589246410280" duration="1088000" />
     </task>
     <servers />
   </component>
